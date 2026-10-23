@@ -74,29 +74,4 @@ Le script compile avec les avertissements traités comme erreurs, puis teste les
 
 Voir [le guide pédagogique](docs/COMPRENDRE.md). Le code est regroupé dans `src/main.c` pour faciliter une première lecture. Il utilise un tableau de taille fixe plutôt qu'une allocation dynamique : c'est un choix de simplicité, avec une limite explicite.
 
-Ce projet a été préparé avec une assistance IA. Avant de le présenter, lire le code, reproduire les tests et effectuer une personnalisation que l'on sait expliquer. Dans un dossier ou un entretien, décrire honnêtement sa contribution et l'aide reçue.
 
-## Préparation avant le 20 novembre 2026
-
-Calendrier personnel de travail, sans présumer des dates officielles de Campus France :
-
-- 23–29 octobre : compiler, essayer chaque menu, comprendre les structures et la saisie.
-- 30 octobre–5 novembre : comprendre les fichiers, reproduire les tests et expliquer les erreurs rejetées.
-- 6–12 novembre : réaliser une amélioration personnelle et mettre à jour les exemples.
-- 13–18 novembre : publier, vérifier le README et répéter une démonstration de trois minutes.
-- 19 novembre : garder une marge pour les dernières corrections avant le 20 novembre.
-
-## Publication sur GitHub
-
-Créer un dépôt vide nommé `StudentManager`, puis depuis ce dossier :
-
-```sh
-git init
-git add .
-git commit -m "Version initiale de StudentManager"
-git branch -M main
-git remote add origin https://github.com/VOTRE_COMPTE/StudentManager.git
-git push -u origin main
-```
-
-Remplacer `VOTRE_COMPTE`. Vérifier les fichiers ajoutés avant le commit. Les exécutables et données locales sont ignorés. Aucune licence de redistribution n'est imposée ici : choisir une licence avant d'autoriser explicitement la réutilisation du code.
