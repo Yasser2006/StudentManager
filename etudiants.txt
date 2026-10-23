@@ -1,0 +1,4 @@
+STUDENTMANAGER;1
+101;Benali;Amine;3;12;15;16.5
+102;Martin;Lea;2;18;17
+103;Durand;Sami;0

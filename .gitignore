@@ -1,0 +1,7 @@
+studentmanager
+studentmanager.exe
+*.o
+*.tmp
+*.bak
+/etudiants.txt
+/tests/work/
